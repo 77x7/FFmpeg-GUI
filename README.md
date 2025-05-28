@@ -2,8 +2,9 @@
 FFmpeg GUI (Rust + egui Portable Tool)
 ======================================
 
-This is just a quick GUI I made for FFmpeg since i hated that the now multi planetary standard (real) is exclusively CLI. It's bad and early, eventually ill get to adding more stuffs
-built in Rust using egui.
+This is just a quick GUI I made for FFmpeg since i hated that the now multi planetary standard (real) is exclusively CLI. It's bad and early, eventually ill get to adding more stuffs.
+
+Built in Rust using egui
 
 Features:
 - Extract audio as many codecs
