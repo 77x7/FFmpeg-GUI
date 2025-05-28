@@ -1,1 +1,5 @@
 /target
+# Ignore portable binaries
+ffmpeg_gui_portable/ffmpeg.exe
+ffmpeg_gui_portable/ffprobe.exe
+ffmpeg_gui_portable/ffplay.exe
